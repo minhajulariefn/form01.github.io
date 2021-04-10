@@ -31,7 +31,8 @@ font-size: 36px;
     width: 50%;
     height: 400px;
     background: url(cup.png);
-    background-size: cover;
+    background-size: contain ;
+    background-repeat:no-repeat;
     box-sizing: border-box;
 }
 .box .right{
